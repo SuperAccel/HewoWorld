@@ -2,11 +2,3 @@
 Console.WriteLine("Hewo World!");
 Console.WriteLine("Testing 123ABC.");
 Console.WriteLine("TestingAgain.");
-sdjafkasdhfjksdafds
-    FAIFASLDASDASds
-    ad
-    asd
-    asd
-    asgdfh
-    gcfhfg
-    dhfd
